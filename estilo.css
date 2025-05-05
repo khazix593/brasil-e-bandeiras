@@ -1,0 +1,28 @@
+body {
+    background-color: #52D9DB;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+ h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+h1 {
+    font-size: 45px;
+}
+.index h2 {
+    font-size: 22px;
+}
+.bandeiras h1 {
+    font-size: 18.5px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table, td, th {
+    border: 1px solid black;
+    padding: 8px;
+
+}
